@@ -18,6 +18,7 @@ The best documentation for the GoodData API can be found using these resources:
 [![Code Climate](https://codeclimate.com/github/gooddata/gooddata-ruby.png)](https://codeclimate.com/github/gooddata/gooddata-ruby)
 [![Build Status](https://travis-ci.org/gooddata/gooddata-ruby.png)](https://travis-ci.org/gooddata/gooddata-ruby)
 [![Coverage Status](https://coveralls.io/repos/gooddata/gooddata-ruby/badge.png)](https://coveralls.io/r/gooddata/gooddata-ruby)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsang-truong%2Fgooddata-ruby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsang-truong%2Fgooddata-ruby?ref=badge_shield)
 
 ## Install
 
@@ -79,3 +80,7 @@ For full contributor info see [contributors page](https://github.com/gooddata/go
 ## Copyright
 
 Copyright (c) 2010 - 2018 GoodData Corporation and Thomas Watson Steen. See [LICENSE](/LICENSE) for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsang-truong%2Fgooddata-ruby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsang-truong%2Fgooddata-ruby?ref=badge_large)
